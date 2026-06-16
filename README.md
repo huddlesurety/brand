@@ -2,13 +2,13 @@
 
 Official Huddle logo assets, served at [brand.huddlesurety.co](https://brand.huddlesurety.co).
 
-Each logo comes in three sizes (`sm`, `md`, `lg`), two themes (`dark`, `light`), and solid or `transparent` background variants.
-
 ## Palette
 
 ![palette](./palette.png)
 
 ## Logos
+
+Each logo comes in three sizes (`sm`, `md`, `lg`), two themes (`dark`, `light`), and solid or `transparent` background variants.
 
 | Preview                                                                          | Link                                                                                                               |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
