@@ -1,6 +1,6 @@
 # Huddle Brand
 
-Official Huddle logo assets, served at [brand.huddlesurety.co](https://brand.huddlesurety.com).
+Official Huddle logo assets, served at [brand.huddlesurety.com](https://brand.huddlesurety.com).
 
 ## Palette
 
